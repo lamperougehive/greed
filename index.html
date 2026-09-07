@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Baromètre Robinhood Chain</title>
+<style>
+  :root { --bg:#0b0d10; --fg:#e8e6e3; --dim:#7a7d82; --line:#1e2126; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font-family:ui-monospace,Menlo,Consolas,monospace;
+         display:flex; justify-content:center; padding:48px 20px; }
+  main { width:100%; max-width:560px; }
+  h1 { font-size:13px; font-weight:400; letter-spacing:.18em;
+       text-transform:uppercase; color:var(--dim); margin:0 0 40px; }
+  .score { font-size:104px; line-height:1; font-weight:500; margin:0; }
+  .label { font-size:15px; color:var(--dim); margin:10px 0 4px; }
+  .stamp { font-size:12px; color:var(--dim); }
+  .comps { margin:44px 0 0; border-top:1px solid var(--line); }
+  .row { display:grid; grid-template-columns:88px 1fr 44px;
+         align-items:center; gap:14px; padding:15px 0;
+         border-bottom:1px solid var(--line); font-size:13px; }
+  .bar { height:3px; background:var(--line); }
+  .bar i { display:block; height:100%; background:var(--fg); }
+  .val { text-align:right; color:var(--dim); }
+  .note { margin-top:32px; font-size:12px; line-height:1.7; color:var(--dim); }
+  a { color:var(--dim); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Baromètre · Robinhood Chain</h1>
+  <p class="score" id="score">—</p>
+  <p class="label" id="label"></p>
+  <p class="stamp" id="stamp"></p>
+
+  <div class="comps" id="comps"></div>
+
+  <p class="note">
+    Univers : les pools tendance de Robinhood Chain, hors paires d'infrastructure
+    (liquidité supérieure à 15 M$). Quatre composantes à poids égaux.
+    Flux : part acheteuse du volume sur les 300 derniers échanges, en médiane.
+    Tendance : variation médiane sur 1 h. Largeur : part des pools en hausse sur 24 h.
+    Momentum : variation médiane sur 24 h.<br><br>
+    Ceci est une mesure, pas une recommandation. Données
+    <a href="https://www.geckoterminal.com" target="_blank">GeckoTerminal</a>.
+  </p>
+</main>
+
+<script>
+const NOMS = {
+  flux: "Flux", tendance: "Tendance", largeur: "Largeur", momentum: "Momentum"
+};
+
+function libelle(n) {
+  if (n < 20) return "Peur extrême";
+  if (n < 40) return "Peur";
+  if (n < 60) return "Neutre";
+  if (n < 80) return "Avidité";
+  return "Avidité extrême";
+}
+
+fetch("historique.json")
+  .then(r => r.json())
+  .then(h => {
+    const d = h[h.length - 1];
+    document.getElementById("score").textContent = d.indice;
+    document.getElementById("label").textContent = libelle(d.indice);
+    document.getElementById("stamp").textContent =
+      new Date(d.date).toLocaleString("fr-FR") +
+      " · " + d.poolsFlux + "/" + d.poolsUnivers + " pools";
+
+    document.getElementById("comps").innerHTML =
+      ["flux","tendance","largeur","momentum"].map(k => `
+        <div class="row">
+          <span>${NOMS[k]}</span>
+          <span class="bar"><i style="width:${d[k]}%"></i></span>
+          <span class="val">${d[k]}</span>
+        </div>`).join("");
+  })
+  .catch(() => {
+    document.getElementById("label").textContent = "Données indisponibles";
+  });
+</script>
+</body>
+</html>
