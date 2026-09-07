@@ -1,0 +1,30 @@
+name: Mesure quotidienne
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mesurer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Calculer l'indice
+        run: node indice.js
+
+      - name: Enregistrer
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add historique.json
+          git diff --staged --quiet || git commit -m "mesure $(date -u +%Y-%m-%d)"
+          git push
