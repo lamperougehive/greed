@@ -20,5 +20,36 @@
     "poolsUnivers": 18,
     "poolsFlux": 18,
     "couverture": 100
+  },
+  {
+    "date": "2026-09-07T17:50:06.596Z",
+    "indice": 52,
+    "flux": 56,
+    "tendance": 73,
+    "largeur": 39,
+    "momentum": 39,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "ROBIN / USDG",
+      "CHUMP / WETH 1%",
+      "POPE / WETH",
+      "MEME / USDG 0.7%",
+      "UPS / UPS",
+      "PONS / USDG 0.3%",
+      "SIRIUS / USDG",
+      "AOBS / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PAIR / SPY 1%",
+      "EQUI / WETH",
+      "PONS / WETH 0.3%",
+      "ROBIN / USDG 1%",
+      "Index / WETH 1%",
+      "PARE / WETH 2%",
+      "GME / USDG 4%",
+      "HOOKR / WETH 0.25%",
+      "PROLOGUE / WETH 0.25%"
+    ]
   }
 ]

@@ -105,7 +105,8 @@ async function main() {
     momentum: Math.round(momentum),
     poolsUnivers: pools.length,
     poolsFlux: ratios.length,
-    couverture: Math.round(couverture * 100)
+        couverture: Math.round(couverture * 100),
+    univers: pools.map(a => a.name)
   });
 
   fs.writeFileSync("historique.json", JSON.stringify(hist, null, 2));
