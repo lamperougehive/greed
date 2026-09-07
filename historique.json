@@ -9,5 +9,16 @@
     "poolsUnivers": 18,
     "poolsFlux": 18,
     "couverture": 100
+  },
+  {
+    "date": "2026-09-07T17:39:42.228Z",
+    "indice": 56,
+    "flux": 53,
+    "tendance": 77,
+    "largeur": 50,
+    "momentum": 45,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100
   }
 ]
