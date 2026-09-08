@@ -51,5 +51,37 @@
       "HOOKR / WETH 0.25%",
       "PROLOGUE / WETH 0.25%"
     ]
+  },
+  {
+    "date": "2026-09-08T06:09:58.518Z",
+    "indice": 43,
+    "flux": 51,
+    "tendance": 61,
+    "largeur": 32,
+    "momentum": 31,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "POPE / WETH",
+      "ROBIN / USDG",
+      "CHUMP / WETH 1%",
+      "PONS / USDG 0.3%",
+      "MEME / USDG 0.7%",
+      "SIRIUS / USDG",
+      "LAPTOP / SGOV",
+      "PAIR / SPY 1%",
+      "CASHCAT / WETH 0.3%",
+      "UPS / UPS",
+      "Index / WETH 1%",
+      "PARE / WETH 2%",
+      "HOOKR / WETH 0.25%",
+      "GME / USDG 4%",
+      "DELTA / WETH 1%",
+      "PERPSHOOD / WETH",
+      "PONS / WETH 0.3%",
+      "microduck / USDG 0.78%",
+      "LDX / WETH"
+    ]
   }
 ]
