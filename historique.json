@@ -83,5 +83,37 @@
       "microduck / USDG 0.78%",
       "LDX / WETH"
     ]
+  },
+  {
+    "date": "2026-09-09T06:09:56.692Z",
+    "indice": 56,
+    "flux": 53,
+    "tendance": 63,
+    "largeur": 53,
+    "momentum": 54,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "ASHIBA / NVDA",
+      "PAIR / SPY 1%",
+      "WORKS / WETH",
+      "ROBIN / USDG",
+      "RUBEN / WETH",
+      "CHUMP / WETH 1%",
+      "PONS / USDG 0.3%",
+      "AP / NVDA",
+      "SIRIUS / USDG",
+      "CRUMBS / WETH",
+      "CASHCAT / WETH 0.3%",
+      "DELTA / WETH 1%",
+      "ZZZ / WETH",
+      "MEME / USDG 0.7%",
+      "RSTR / WETH",
+      "Index / WETH 1%",
+      "NUKE / USDG 2%",
+      "HOOKR / WETH 0.25%",
+      "ROUTE / WETH"
+    ]
   }
 ]
