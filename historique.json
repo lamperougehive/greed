@@ -115,5 +115,36 @@
       "HOOKR / WETH 0.25%",
       "ROUTE / WETH"
     ]
+  },
+  {
+    "date": "2026-09-10T06:10:09.411Z",
+    "indice": 39,
+    "flux": 49,
+    "tendance": 62,
+    "largeur": 28,
+    "momentum": 17,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "PONIE / WETH 0.25%",
+      "ROBIN / USDG",
+      "ASHIBA / NVDA",
+      "CHUMP / WETH 1%",
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "KERMIT / USDG",
+      "ZZZ / WETH",
+      "SIRIUS / USDG",
+      "Jacob / WETH",
+      "Index / WETH 1%",
+      "RECEIPT / WETH",
+      "PONS / WETH 0.3%",
+      "CRUMBS / WETH",
+      "Jacob / USDG",
+      "PARE / WETH 1%",
+      "MEME / USDG 0.7%",
+      "PAIR / SPY 1%"
+    ]
   }
 ]
