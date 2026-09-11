@@ -146,5 +146,37 @@
       "MEME / USDG 0.7%",
       "PAIR / SPY 1%"
     ]
+  },
+  {
+    "date": "2026-09-11T06:09:34.243Z",
+    "indice": 54,
+    "flux": 58,
+    "tendance": 49,
+    "largeur": 58,
+    "momentum": 52,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "PONIE / WETH 0.25%",
+      "ROBIN / USDG",
+      "JUGGERNAUT / WETH 1%",
+      "SIH / WETH",
+      "PONS / USDG 0.3%",
+      "CHUMP / WETH 1%",
+      "ASHIBA / NVDA",
+      "KERMIT / USDG",
+      "FRONG / WETH 0.25%",
+      "PYRE / WETH",
+      "WALLET / WETH 1%",
+      "CASHCAT / WETH 0.3%",
+      "MEME / USDG 0.7%",
+      "SIRIUS / USDG",
+      "MANY / WETH",
+      "ND4 / WETH",
+      "MARIO / NVDA",
+      "LPAD / WETH 1%",
+      "DARK / WETH"
+    ]
   }
 ]
