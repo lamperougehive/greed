@@ -178,5 +178,36 @@
       "LPAD / WETH 1%",
       "DARK / WETH"
     ]
+  },
+  {
+    "date": "2026-09-12T06:09:44.040Z",
+    "indice": 41,
+    "flux": 53,
+    "tendance": 39,
+    "largeur": 33,
+    "momentum": 39,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "PONIE / WETH 0.25%",
+      "ROBIN / USDG",
+      "CHUMP / WETH 1%",
+      "FLYBRAIN / USDG 0.9%",
+      "PONS / USDG 0.3%",
+      "LPAD / WETH 1%",
+      "STOCKTARD / SPY",
+      "JUGGERNAUT / WETH 1%",
+      "CASHCAT / WETH 0.3%",
+      "Index / WETH 1%",
+      "SIRIUS / USDG",
+      "CME / USDG 3.11%",
+      "ASHIBA / NVDA",
+      "MEME / USDG 0.7%",
+      "ZZZ / WETH",
+      "DELTA / WETH 1%",
+      "HMM / WETH 1%",
+      "PONS / WETH 0.3%"
+    ]
   }
 ]
