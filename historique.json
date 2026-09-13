@@ -209,5 +209,37 @@
       "HMM / WETH 1%",
       "PONS / WETH 0.3%"
     ]
+  },
+  {
+    "date": "2026-09-13T06:11:54.625Z",
+    "indice": 56,
+    "flux": 41,
+    "tendance": 47,
+    "largeur": 63,
+    "momentum": 71,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "CHUMP / WETH 1%",
+      "PONIE / WETH 0.25%",
+      "ROBIN / USDG",
+      "CATGPT / OPENAIx1L",
+      "PAIREX / USDG",
+      "PONS / USDG 0.3%",
+      "FRONTIER / WETH",
+      "TWINE / WETH",
+      "FLYBRAIN / USDG 0.9%",
+      "LPAD / WETH 1%",
+      "ZZZ / WETH",
+      "ANTHROPIG / WETH",
+      "LONGCAT / NVDAx3L",
+      "CASHCAT / WETH 0.3%",
+      "CME / USDG 3.11%",
+      "HARMONIC / WETH",
+      "microduck / USDG 0.78%",
+      "RUFUS / AMZN",
+      "WALLET / WETH 1%"
+    ]
   }
 ]
