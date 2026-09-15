@@ -273,5 +273,35 @@
       "TOOLS / WETH",
       "佩佩 / WETH"
     ]
+  },
+  {
+    "date": "2026-09-15T06:09:30.269Z",
+    "indice": 60,
+    "flux": 55,
+    "tendance": 67,
+    "largeur": 59,
+    "momentum": 60,
+    "poolsUnivers": 17,
+    "poolsFlux": 17,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "DPONS / WETH",
+      "HOODS / WETH",
+      "BANGERCAT / NVDA",
+      "ROBIN / USDG",
+      "CASHCAT / WETH 0.3%",
+      "Index / WETH 1%",
+      "DELTA / WETH 1%",
+      "PARE / WETH 1%",
+      "JUGGERNAUT / WETH 1%",
+      "WALLET / WETH 1%",
+      "SHROOM / USDG 0.9%",
+      "CME / USDG 3.11%",
+      "LPAD / WETH 1%",
+      "INU / AAPL",
+      "SYNAPSE / WETH",
+      "HOOKR / WETH 0.25%"
+    ]
   }
 ]
