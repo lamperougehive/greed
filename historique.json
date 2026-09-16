@@ -303,5 +303,37 @@
       "SYNAPSE / WETH",
       "HOOKR / WETH 0.25%"
     ]
+  },
+  {
+    "date": "2026-09-16T06:09:59.232Z",
+    "indice": 37,
+    "flux": 29,
+    "tendance": 29,
+    "largeur": 47,
+    "momentum": 45,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "DPONS / WETH",
+      "HOODS / WETH",
+      "STANDARD / WETH 1%",
+      "ROBIN / USDG",
+      "WAIFU / WETH",
+      "DELTA / WETH 1%",
+      "NET / USDG 0.9%",
+      "par / WETH 1%",
+      "PAIR / SPY 1%",
+      "Index / WETH 1%",
+      "CASHCAT / WETH 0.3%",
+      "SHROOM / USDG 0.9%",
+      "WALLET / WETH 1%",
+      "ORBIO / NVDA",
+      "POOLS / WETH 0.25%",
+      "NOTE / WETH 1%",
+      "UP / WETH 1%",
+      "XL / USDG"
+    ]
   }
 ]
