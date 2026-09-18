@@ -366,5 +366,36 @@
       "CHUMP / WETH 1%",
       "FOMOBALL / WETH"
     ]
+  },
+  {
+    "date": "2026-09-18T06:09:46.244Z",
+    "indice": 62,
+    "flux": 40,
+    "tendance": 69,
+    "largeur": 67,
+    "momentum": 71,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "AD / WETH 0.25%",
+      "DPONS / WETH",
+      "ROBIN / USDG",
+      "WALLET / WETH 1%",
+      "musebook / META",
+      "HBET / USDG",
+      "FLX / WETH 1%",
+      "JUGGERNAUT / WETH 1%",
+      "CASHCAT / WETH 0.3%",
+      "DELTA / WETH 1%",
+      "Index / WETH 1%",
+      "NOTE / WETH 1%",
+      "UP / WETH 1%",
+      "FRONG / WETH 0.25%",
+      "MEME / USDG 0.297%",
+      "INU / AAPL",
+      "PONS / WETH 0.3%"
+    ]
   }
 ]
