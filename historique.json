@@ -397,5 +397,37 @@
       "INU / AAPL",
       "PONS / WETH 0.3%"
     ]
+  },
+  {
+    "date": "2026-09-19T06:10:01.447Z",
+    "indice": 57,
+    "flux": 46,
+    "tendance": 24,
+    "largeur": 68,
+    "momentum": 90,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "AD / WETH 0.25%",
+      "FLX / WETH 1%",
+      "DPONS / WETH",
+      "ROBIN / USDG",
+      "PONS / USDG 0.3%",
+      "WORM / PLTR",
+      "musebook / META",
+      "WALLET / WETH 1%",
+      "DELTA / WETH 1%",
+      "SHROOM / USDG 0.9%",
+      "HOOKR / WETH 0.25%",
+      "IF / WETH 1%",
+      "CEST / WETH",
+      "Wire / WETH",
+      "Index / WETH 1%",
+      "CASHCAT / WETH 0.3%",
+      "SCHIFFY / gld",
+      "ASKR / WETH",
+      "MANY / WETH"
+    ]
   }
 ]
