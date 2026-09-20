@@ -429,5 +429,37 @@
       "ASKR / WETH",
       "MANY / WETH"
     ]
+  },
+  {
+    "date": "2026-09-20T06:09:11.749Z",
+    "indice": 36,
+    "flux": 44,
+    "tendance": 30,
+    "largeur": 42,
+    "momentum": 30,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "HOODCATS / WETH 0.25%",
+      "AD / WETH 0.25%",
+      "DPONS / WETH",
+      "PONS / USDG 0.3%",
+      "ROBIN / USDG",
+      "ASKR / WETH",
+      "IF / WETH 1%",
+      "SCHIFFY / gld",
+      "CEST / WETH",
+      "PONS / WETH 0.3%",
+      "ZFORGE / WETH",
+      "WALLET / WETH 1%",
+      "SHROOM / USDG 0.9%",
+      "BEORN / SHROOM",
+      "CPU / INTC",
+      "musebook / META",
+      "SI / NVDA",
+      "CEST / WETH",
+      "PRISM / WETH"
+    ]
   }
 ]
