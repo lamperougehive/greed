@@ -461,5 +461,36 @@
       "CEST / WETH",
       "PRISM / WETH"
     ]
+  },
+  {
+    "date": "2026-09-21T06:09:48.450Z",
+    "indice": 52,
+    "flux": 56,
+    "tendance": 54,
+    "largeur": 50,
+    "momentum": 50,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "HOODCATS / WETH 0.25%",
+      "AD / WETH 0.25%",
+      "DPONS / WETH",
+      "PONS / WETH 0.3%",
+      "musebook / META",
+      "CASHCAT / WETH 0.3%",
+      "SCHIFFY / gld",
+      "SI / NVDA",
+      "CASHCAT / WETH 1%",
+      "DELTA / WETH 1%",
+      "ROBIN / USDG",
+      "JEV / WETH",
+      "TORO / WETH 0.3%",
+      "WALLET / WETH 1%",
+      "ORBIO / USDG 5%",
+      "HOOKR / WETH 0.25%",
+      "PROLOGUE / WETH 0.25%"
+    ]
   }
 ]
