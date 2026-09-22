@@ -492,5 +492,36 @@
       "HOOKR / WETH 0.25%",
       "PROLOGUE / WETH 0.25%"
     ]
+  },
+  {
+    "date": "2026-09-22T06:09:43.596Z",
+    "indice": 63,
+    "flux": 58,
+    "tendance": 59,
+    "largeur": 61,
+    "momentum": 75,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "HOODCATS / WETH 0.25%",
+      "AD / WETH 0.25%",
+      "musebook / META",
+      "DELTA / WETH 1%",
+      "Index / WETH 1%",
+      "NOSH / WETH",
+      "CASHCAT / WETH 0.3%",
+      "ORBIO / USDG 0.8%",
+      "Nautilo / WETH",
+      "PONS / WETH 0.3%",
+      "UBIK / USDG 1%",
+      "STONKBROKER / WETH 1%",
+      "DEED / WETH",
+      "ZZZ / WETH",
+      "UP / WETH 1%",
+      "KVRA / WETH 0.3%",
+      "NET / USDG 0.9%"
+    ]
   }
 ]
