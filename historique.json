@@ -523,5 +523,37 @@
       "KVRA / WETH 0.3%",
       "NET / USDG 0.9%"
     ]
+  },
+  {
+    "date": "2026-09-23T06:09:59.320Z",
+    "indice": 53,
+    "flux": 37,
+    "tendance": 46,
+    "largeur": 68,
+    "momentum": 62,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "AD / WETH 0.25%",
+      "HOODCATS / WETH 0.25%",
+      "musebook / META",
+      "Agrippa / musebook",
+      "ROBIN / USDG",
+      "DELTA / WETH 1%",
+      "PONS / WETH 0.3%",
+      "BONER / HIMS",
+      "CASHCAT / WETH 0.3%",
+      "SHROOM / USDG 0.9%",
+      "NOSH / WETH",
+      "NET / USDG 0.9%",
+      "Index / WETH 1%",
+      "AGI / WETH 0.3%",
+      "ASKR / WETH",
+      "HOOKR / WETH 0.25%",
+      "DEED / WETH 0.01%",
+      "PRISM / WETH"
+    ]
   }
 ]
