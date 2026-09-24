@@ -555,5 +555,38 @@
       "DEED / WETH 0.01%",
       "PRISM / WETH"
     ]
+  },
+  {
+    "date": "2026-09-24T06:10:13.052Z",
+    "indice": 45,
+    "flux": 53,
+    "tendance": 52,
+    "largeur": 40,
+    "momentum": 35,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "ROO / WETH",
+      "FLY / WETH 3.25%",
+      "ROBIN / USDG",
+      "AD / WETH 0.25%",
+      "HOODCATS / WETH 0.25%",
+      "Agrippa / musebook",
+      "musebook / META",
+      "DELTA / WETH 1%",
+      "SHROOM / USDG 0.9%",
+      "PURSER / WETH",
+      "PRISM / WETH",
+      "SFX / USDG",
+      "CASHCAT / WETH 0.3%",
+      "MEME / USDG 0.297%",
+      "PONS / WETH 0.3%",
+      "NET / USDG 0.9%",
+      "AGI / WETH 0.3%",
+      "MONITOR / PLTR",
+      "PRIORS / USDG"
+    ]
   }
 ]
