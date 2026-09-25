@@ -588,5 +588,37 @@
       "MONITOR / PLTR",
       "PRIORS / USDG"
     ]
+  },
+  {
+    "date": "2026-09-25T06:09:31.957Z",
+    "indice": 50,
+    "flux": 47,
+    "tendance": 52,
+    "largeur": 53,
+    "momentum": 50,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "HOODCATS / WETH 0.25%",
+      "ROO / WETH",
+      "PONS / USDG 0.3%",
+      "AD / WETH 0.25%",
+      "FLY / WETH 3.25%",
+      "ROBIN / USDG",
+      "Agrippa / musebook",
+      "musebook / META",
+      "CASHCAT / WETH 0.3%",
+      "AGI / WETH 0.3%",
+      "PRISM / WETH",
+      "NET / USDG 0.9%",
+      "PONS / WETH 0.3%",
+      "DELTA / WETH 1%",
+      "UP / WETH 1%",
+      "RVN / WETH",
+      "QUANTA / WETH",
+      "MEME / USDG 0.297%",
+      "PRIORS / USDG"
+    ]
   }
 ]
