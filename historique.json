@@ -620,5 +620,37 @@
       "MEME / USDG 0.297%",
       "PRIORS / USDG"
     ]
+  },
+  {
+    "date": "2026-09-26T06:09:57.512Z",
+    "indice": 46,
+    "flux": 45,
+    "tendance": 44,
+    "largeur": 47,
+    "momentum": 49,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "TALIS / WETH",
+      "HOODCATS / WETH 0.25%",
+      "ROO / WETH",
+      "PONS / USDG 0.3%",
+      "AD / WETH 0.25%",
+      "ROBINPEPE / WETH",
+      "ROBIN / USDG",
+      "Agrippa / musebook",
+      "musebook / META",
+      "Protocol / META",
+      "CASHCAT / WETH 0.3%",
+      "SI / WETH 0.01%",
+      "富贵 / WETH 1%",
+      "DELTA / WETH 1%",
+      "HOOKR / WETH 0.25%",
+      "JOLLY / USDG 0.9%",
+      "ORBIO / USDG 0.8%",
+      "PONS / WETH 0.3%",
+      "NET / USDG 0.9%"
+    ]
   }
 ]
