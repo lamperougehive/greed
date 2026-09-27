@@ -652,5 +652,37 @@
       "PONS / WETH 0.3%",
       "NET / USDG 0.9%"
     ]
+  },
+  {
+    "date": "2026-09-27T06:10:00.198Z",
+    "indice": 50,
+    "flux": 52,
+    "tendance": 54,
+    "largeur": 47,
+    "momentum": 48,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "ROBINPEPE / WETH",
+      "ROO / WETH",
+      "AD / WETH 0.25%",
+      "TALIS / WETH",
+      "CASHED / WETH",
+      "AEVA / WETH",
+      "SI / WETH 0.01%",
+      "musebook / META",
+      "FILR / WETH 0.3%",
+      "BUN / WETH",
+      "PONS / WETH 0.3%",
+      "SHRUB / WETH",
+      "HYDX / WETH",
+      "XGAS.DEV / WETH",
+      "CPU / INTC",
+      "SW / WETH",
+      "HOODCATS / WETH 0.25%",
+      "PONS / USDG",
+      "NET / USDG 0.9%"
+    ]
   }
 ]
