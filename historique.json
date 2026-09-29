@@ -717,5 +717,37 @@
       "PEVL / WETH 0.3%",
       "PONS / WETH 0.3%"
     ]
+  },
+  {
+    "date": "2026-09-29T06:10:25.523Z",
+    "indice": 50,
+    "flux": 50,
+    "tendance": 61,
+    "largeur": 42,
+    "momentum": 47,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "HOODIE / WETH",
+      "ROBINPEPE / WETH",
+      "ROO / WETH",
+      "AD / WETH 0.25%",
+      "CASHCAT / WETH 0.3%",
+      "musebook / META",
+      "PEVL / WETH 0.3%",
+      "NET / USDG 0.9%",
+      "PONS / USDG",
+      "ORBIO / USDG 0.8%",
+      "Agrippa / musebook",
+      "NOSH / USDG 2%",
+      "WALLET / WETH 1%",
+      "swordcat / WETH 0.01%",
+      "PONS / WETH 0.3%",
+      "VAULT / WETH 1%",
+      "POTATCHI / WETH",
+      "CASHED / WETH",
+      "QNTA / WETH"
+    ]
   }
 ]
