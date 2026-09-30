@@ -749,5 +749,38 @@
       "CASHED / WETH",
       "QNTA / WETH"
     ]
+  },
+  {
+    "date": "2026-09-30T06:10:07.977Z",
+    "indice": 52,
+    "flux": 47,
+    "tendance": 52,
+    "largeur": 55,
+    "momentum": 54,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROBINPEPE / WETH",
+      "ROO / WETH",
+      "HOODIE / WETH",
+      "PONS / USDG",
+      "UP / WETH 1%",
+      "AI / NVDA",
+      "PONS / WETH 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "VRAX / USDG",
+      "HOOKR / WETH 0.25%",
+      "COON / AMZN",
+      "NET / USDG 0.9%",
+      "WALLET / WETH 1%",
+      "ORBIO / USDG 0.8%",
+      "musebook / META",
+      "ROBIN / USDG",
+      "SI / AI",
+      "Index / WETH 1%",
+      "PONS / USDG 0.3%",
+      "PRISM / WETH"
+    ]
   }
 ]
