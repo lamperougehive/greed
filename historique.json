@@ -782,5 +782,38 @@
       "PONS / USDG 0.3%",
       "PRISM / WETH"
     ]
+  },
+  {
+    "date": "2026-10-01T06:12:46.860Z",
+    "indice": 46,
+    "flux": 55,
+    "tendance": 64,
+    "largeur": 25,
+    "momentum": 38,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROBINPEPE / WETH",
+      "HOODIE / WETH",
+      "ROO / WETH",
+      "VRAX / USDG",
+      "ORBIO / USDG 0.8%",
+      "WALLET / WETH 1%",
+      "VRAX / WETH 0.01%",
+      "HOOKR / WETH 0.25%",
+      "PRIORS / USDG",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG",
+      "PONS / WETH 0.3%",
+      "AI / NVDA",
+      "MEME / USDG 0.297%",
+      "Index / WETH 1%",
+      "NET / USDG 0.9%",
+      "TIBBIR / WETH 0.3%",
+      "ROBIN / USDG",
+      "DELTA / WETH 1%",
+      "FRONG / WETH 0.25%"
+    ]
   }
 ]
