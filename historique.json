@@ -848,5 +848,38 @@
       "PONS / USDG",
       "LIEGE / WETH"
     ]
+  },
+  {
+    "date": "2026-10-03T06:15:41.802Z",
+    "indice": 41,
+    "flux": 46,
+    "tendance": 49,
+    "largeur": 40,
+    "momentum": 31,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROBINPEPE / WETH",
+      "ROO / WETH",
+      "ORE / WETH",
+      "SC / WETH 0.01%",
+      "SI / WETH 0.01%",
+      "VRAX / WETH 0.01%",
+      "WOOF / WETH 1%",
+      "HOOKR / WETH 0.25%",
+      "SGT / WETH",
+      "PONS / WETH 0.3%",
+      "ORBIO / USDG 0.8%",
+      "ANYR / WETH",
+      "HARMONIC / WETH",
+      "PONS / USDG",
+      "NET / USDG",
+      "Index / WETH 1%",
+      "AI / NVDA",
+      "ZIP / WETH",
+      "PRISM / WETH",
+      "revenue / WETH"
+    ]
   }
 ]
