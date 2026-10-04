@@ -881,5 +881,38 @@
       "PRISM / WETH",
       "revenue / WETH"
     ]
+  },
+  {
+    "date": "2026-10-04T11:21:09.975Z",
+    "indice": 55,
+    "flux": 48,
+    "tendance": 57,
+    "largeur": 60,
+    "momentum": 58,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROO / WETH",
+      "ROBINPEPE / WETH",
+      "SI / WETH",
+      "ORE / WETH",
+      "SI / WETH 0.01%",
+      "Index / WETH 1%",
+      "HOOKR / WETH 0.25%",
+      "PRIORS / USDG",
+      "ORBIO / USDG 0.8%",
+      "HOODCATS / WETH 0.25%",
+      "ZERO / WETH",
+      "FABLE / WETH",
+      "WTH / WETH 0.05%",
+      "AI / NVDA",
+      "PONS / USDG",
+      "SHROOM / USDG 0.9%",
+      "PONS / WETH 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "CRADLE / WETH",
+      "HMM / WETH 1%"
+    ]
   }
 ]
