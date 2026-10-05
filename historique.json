@@ -914,5 +914,38 @@
       "CRADLE / WETH",
       "HMM / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-10-05T06:14:36.981Z",
+    "indice": 35,
+    "flux": 37,
+    "tendance": 46,
+    "largeur": 25,
+    "momentum": 33,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROO / WETH",
+      "ROBINPEPE / WETH",
+      "ORE / WETH",
+      "HI / WETH 0.01%",
+      "AI / NVDA",
+      "BONER / HIMS",
+      "CASHCAT / WETH 0.3%",
+      "HOOKR / WETH 0.25%",
+      "Index / WETH 1%",
+      "SIF / WETH 0.01%",
+      "PRIORS / USDG",
+      "SHROOM / USDG 0.9%",
+      "ORBIO / USDG 0.8%",
+      "PONS / USDG",
+      "PRISM / WETH",
+      "HOODCATS / WETH 0.25%",
+      "PONS / WETH 0.3%",
+      "CRADLE / WETH",
+      "PONS / USDG 0.3%",
+      "MEME / USDG 0.297%"
+    ]
   }
 ]
