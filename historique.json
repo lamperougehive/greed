@@ -947,5 +947,38 @@
       "PONS / USDG 0.3%",
       "MEME / USDG 0.297%"
     ]
+  },
+  {
+    "date": "2026-10-06T06:10:10.686Z",
+    "indice": 42,
+    "flux": 36,
+    "tendance": 46,
+    "largeur": 40,
+    "momentum": 47,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROO / WETH",
+      "ORE / WETH",
+      "SIF / WETH 0.01%",
+      "V4 / WETH",
+      "BONER / HIMS",
+      "PONS / USDG",
+      "CASHCAT / WETH 0.3%",
+      "HOOKR / WETH 0.25%",
+      "AI / NVDA",
+      "PONS / USDG 0.3%",
+      "HOODCHAN / WETH 0.01%",
+      "ORBIO / USDG 0.8%",
+      "WORM / PLTR",
+      "PONS / WETH 0.3%",
+      "SHROOM / USDG 0.9%",
+      "PONS / USDG 0.3%",
+      "PONS / WETH 1%",
+      "SI / WETH",
+      "AI / WETH 1%",
+      "Index / WETH 1%"
+    ]
   }
 ]
