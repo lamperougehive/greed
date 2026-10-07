@@ -980,5 +980,38 @@
       "AI / WETH 1%",
       "Index / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-10-07T06:08:44.546Z",
+    "indice": 49,
+    "flux": 50,
+    "tendance": 50,
+    "largeur": 50,
+    "momentum": 47,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROO / WETH",
+      "PONS / USDG",
+      "CASHCAT / WETH 0.3%",
+      "AI / NVDA",
+      "ORBIO / USDG 0.8%",
+      "HOODCHAN / WETH 0.01%",
+      "UBIK / USDG",
+      "Index / WETH 1%",
+      "CHONK / WETH 0.01%",
+      "SS / WETH 0.01%",
+      "WORM / PLTR",
+      "UBIK / USDG 1%",
+      "GOLDEN / gld",
+      "ZZZ / WETH",
+      "PONS / USDG 0.3%",
+      "CrawlScan / WETH",
+      "AI / USDG",
+      "PONS / USDG 0.3%",
+      "SECTORAL / WETH",
+      "LM / WETH"
+    ]
   }
 ]
