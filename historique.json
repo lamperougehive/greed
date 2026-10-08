@@ -1013,5 +1013,38 @@
       "SECTORAL / WETH",
       "LM / WETH"
     ]
+  },
+  {
+    "date": "2026-10-08T06:12:11.409Z",
+    "indice": 47,
+    "flux": 46,
+    "tendance": 40,
+    "largeur": 50,
+    "momentum": 51,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "ROO / WETH",
+      "CASHCAT / WETH 0.3%",
+      "CHOP / WETH",
+      "PONS / USDG",
+      "V4 / WETH",
+      "OGEE / WETH",
+      "HOOKR / WETH 0.25%",
+      "AI / USDG",
+      "CHOP / WETH",
+      "BCI / WETH",
+      "Index / WETH 1%",
+      "PONS / USDG 0.3%",
+      "PONS / WETH 0.3%",
+      "AI / NVDA",
+      "PONS / WETH 1%",
+      "ORBIO / USDG 0.8%",
+      "NET / USDG",
+      "HARMONIC / WETH",
+      "PRISM / WETH",
+      "GLIM / WETH"
+    ]
   }
 ]
