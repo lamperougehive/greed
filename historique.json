@@ -1046,5 +1046,38 @@
       "PRISM / WETH",
       "GLIM / WETH"
     ]
+  },
+  {
+    "date": "2026-10-09T12:23:09.527Z",
+    "indice": 51,
+    "flux": 53,
+    "tendance": 62,
+    "largeur": 40,
+    "momentum": 47,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "HOODIE / WETH",
+      "SI / WETH",
+      "CRH / WETH",
+      "OVO / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PULP / WETH",
+      "HOOKR / WETH 0.25%",
+      "LOL / WETH",
+      "PONS / USDG",
+      "AI / NVDA",
+      "ROO / USDG 1%",
+      "SWARM / WETH 0.01%",
+      "PAPER / WETH 0.01%",
+      "PONS / USDG 0.3%",
+      "Index / WETH 1%",
+      "PRISM / WETH",
+      "ORBIO / USDG 0.8%",
+      "HARMONIC / WETH",
+      "AI / USDG",
+      "PONS / WETH 1%"
+    ]
   }
 ]
