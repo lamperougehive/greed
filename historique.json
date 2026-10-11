@@ -1112,5 +1112,38 @@
       "Index / WETH 1%",
       "SYNTHS / WETH"
     ]
+  },
+  {
+    "date": "2026-10-11T11:56:06.614Z",
+    "indice": 53,
+    "flux": 58,
+    "tendance": 49,
+    "largeur": 50,
+    "momentum": 55,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "CASHCAT / WETH 0.3%",
+      "TORCH / WETH 0.3%",
+      "QI / WETH 0.01%",
+      "PONS / USDG 0.3%",
+      "ORBIO / USDG 0.8%",
+      "PULP / WETH",
+      "hoodcat / WETH 0.01%",
+      "TasQ / WETH",
+      "HOOKR / WETH 0.25%",
+      "AI / NVDA",
+      "PRISM / WETH",
+      "WORM / PLTR",
+      "PRIORS / USDG",
+      "PONS / USDG 0.3%",
+      "HMM / WETH 1%",
+      "CHUMP / WETH 1%",
+      "Index / WETH 1%",
+      "PONS / WETH 1%",
+      "MINTFOLIO / WETH"
+    ]
   }
 ]
