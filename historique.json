@@ -1145,5 +1145,38 @@
       "PONS / WETH 1%",
       "MINTFOLIO / WETH"
     ]
+  },
+  {
+    "date": "2026-10-12T14:03:13.666Z",
+    "indice": 48,
+    "flux": 42,
+    "tendance": 47,
+    "largeur": 50,
+    "momentum": 53,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "DELTA / WETH 1%",
+      "LOOM / USDG",
+      "HYDX / WETH",
+      "CLAUDIA / WETH 0.01%",
+      "TORCH / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "HOOKR / WETH 0.25%",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG",
+      "TasQ / WETH",
+      "AI / NVDA",
+      "WISP / WETH",
+      "V4 / WETH",
+      "ORBIO / USDG 0.8%",
+      "AI / USDG",
+      "PONS / USDG 0.3%",
+      "WISP / WETH 0.01%",
+      "PONS / WETH 0.3%",
+      "SI / NVDA"
+    ]
   }
 ]
