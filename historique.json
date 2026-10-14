@@ -1211,5 +1211,38 @@
       "PONS / WETH 0.3%",
       "AI / NVDA"
     ]
+  },
+  {
+    "date": "2026-10-14T10:58:06.850Z",
+    "indice": 71,
+    "flux": 52,
+    "tendance": 52,
+    "largeur": 95,
+    "momentum": 83,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "HOOKR / WETH 0.25%",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "VRAX / USDG",
+      "SURPLUS / WETH",
+      "PONS / USDG 0.3%",
+      "STONKBROKER / WETH 1%",
+      "DELTA / WETH 1%",
+      "casino / WETH 0.01%",
+      "IGNITION / WETH 0.01%",
+      "BONER / HIMS",
+      "DKIT / WETH 0.3%",
+      "TasQ / WETH",
+      "Index / WETH 1%",
+      "AI / NVDA",
+      "musebook / META",
+      "NET / USDG 1%",
+      "AI / USDG",
+      "IGNITION / WETH"
+    ]
   }
 ]
