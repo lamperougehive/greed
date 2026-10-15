@@ -1244,5 +1244,37 @@
       "AI / USDG",
       "IGNITION / WETH"
     ]
+  },
+  {
+    "date": "2026-10-15T10:40:23.990Z",
+    "indice": 40,
+    "flux": 42,
+    "tendance": 50,
+    "largeur": 32,
+    "momentum": 36,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "SI / WETH",
+      "CASHCAT / WETH 0.3%",
+      "VRAX / USDG 1.9%",
+      "PONS / USDG 0.3%",
+      "WOLFPACK / hXMAX",
+      "RAM / WETH 1%",
+      "AI / NVDA",
+      "HOOKR / WETH 0.25%",
+      "IGNITION / WETH 0.01%",
+      "astro / WETH",
+      "BONER / HIMS",
+      "ORBIO / USDG 0.8%",
+      "UP / WETH 1%",
+      "STANDARD / WETH 1%",
+      "PRIORS / USDG",
+      "Altai / WETH 0.01%",
+      "SURPLUS / WETH",
+      "musebook / META"
+    ]
   }
 ]
