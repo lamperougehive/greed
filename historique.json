@@ -1276,5 +1276,38 @@
       "SURPLUS / WETH",
       "musebook / META"
     ]
+  },
+  {
+    "date": "2026-10-16T10:27:08.994Z",
+    "indice": 60,
+    "flux": 48,
+    "tendance": 40,
+    "largeur": 75,
+    "momentum": 76,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "SEED / WETH",
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "Dacity / WETH",
+      "HOOKR / WETH 0.25%",
+      "DOPE / WETH",
+      "VRAX / USDG 1.9%",
+      "VRAX / WETH 0.01%",
+      "AI / NVDA",
+      "RAM / WETH 1%",
+      "BONER / HIMS",
+      "DOPE / WETH 0.01%",
+      "ORBIO / USDG 0.8%",
+      "HARMONIC / WETH",
+      "SCHIFFY / gld",
+      "DELTA / WETH 1%",
+      "BOTCOIN / SPCX",
+      "V4 / WETH",
+      "astro / WETH"
+    ]
   }
 ]
