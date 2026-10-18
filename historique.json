@@ -1342,5 +1342,38 @@
       "TIBBIR / WETH 1%",
       "RAM / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-10-18T10:12:08.762Z",
+    "indice": 48,
+    "flux": 50,
+    "tendance": 57,
+    "largeur": 45,
+    "momentum": 42,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "EMPIREX / WETH",
+      "GIGATENEV / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "COVENANT / WETH",
+      "ESI / WETH 0.01%",
+      "BOOMER / WETH",
+      "HOOKR / WETH 0.25%",
+      "TORCH / WETH 0.3%",
+      "hi / WETH",
+      "DOPE / WETH",
+      "SEED / WETH",
+      "TSI / WETH",
+      "V4 / WETH",
+      "HARMONIC / WETH",
+      "AI / NVDA",
+      "TIBBIR / WETH 0.3%",
+      "Index / WETH 1%",
+      "PONS / WETH 1%",
+      "PRIORS / USDG 1%"
+    ]
   }
 ]
