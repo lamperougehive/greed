@@ -1375,5 +1375,38 @@
       "PONS / WETH 1%",
       "PRIORS / USDG 1%"
     ]
+  },
+  {
+    "date": "2026-10-19T11:44:12.981Z",
+    "indice": 51,
+    "flux": 50,
+    "tendance": 41,
+    "largeur": 60,
+    "momentum": 52,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "TORCH / WETH 0.3%",
+      "SEED / WETH",
+      "EMPIREX / WETH",
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "PRIORS / USDG 1%",
+      "BOOMER / WETH",
+      "AI / NVDA",
+      "GIGATENEV / WETH",
+      "hi / WETH",
+      "RAETO / WETH",
+      "HOOKR / WETH 0.25%",
+      "DOPE / WETH",
+      "ORBIO / USDG 0.8%",
+      "HARMONIC / WETH",
+      "godspeed / WETH",
+      "CASHCAT / WETH 1%",
+      "BONER / HIMS",
+      "TIBBIR / WETH 0.3%",
+      "FRONG / WETH 0.25%"
+    ]
   }
 ]
