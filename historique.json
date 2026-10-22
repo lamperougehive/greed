@@ -1474,5 +1474,38 @@
       "TIBBIR / WETH 0.3%",
       "ANTI / WETH 0.3%"
     ]
+  },
+  {
+    "date": "2026-10-22T10:58:06.186Z",
+    "indice": 39,
+    "flux": 41,
+    "tendance": 55,
+    "largeur": 30,
+    "momentum": 31,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "SEED / WETH",
+      "GIGATENEV / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PRIORS / USDG 1%",
+      "PONS / USDG 0.3%",
+      "UHI / WETH",
+      "TORCH / WETH 0.3%",
+      "ORBIO / USDG 0.8%",
+      "PANGEA / WETH",
+      "SEASON / WETH",
+      "FABLES / USDG",
+      "GLOAM / WETH",
+      "HOOKR / WETH 0.25%",
+      "DARK / NVDA",
+      "RAETO / WETH",
+      "ANTI / WETH 0.3%",
+      "Index / WETH 1%",
+      "microduck / NVDA",
+      "KYRO / WETH",
+      "AI / NVDA"
+    ]
   }
 ]
