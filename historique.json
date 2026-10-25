@@ -1573,5 +1573,38 @@
       "PONS / WETH 1%",
       "ORBIO / USDG 0.8%"
     ]
+  },
+  {
+    "date": "2026-10-25T10:31:12.679Z",
+    "indice": 52,
+    "flux": 53,
+    "tendance": 52,
+    "largeur": 50,
+    "momentum": 51,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "UHI / WETH",
+      "GIGATENEV / WETH",
+      "SEASON / WETH",
+      "PONS / USDG 0.3%",
+      "AI / NVDA",
+      "SEED / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PANGEA / WETH",
+      "TORCH / WETH 0.3%",
+      "SCHIFFY / gld",
+      "HOOKR / WETH 0.25%",
+      "Index / WETH 1%",
+      "PRIORS / USDG 1%",
+      "microduck / NVDA",
+      "CASHCAT / WETH 1%",
+      "BONER / HIMS",
+      "GLOAM / WETH",
+      "PONS / WETH 0.3%",
+      "VRAX / USDG",
+      "GLDSTN / USDG"
+    ]
   }
 ]
