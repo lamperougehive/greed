@@ -1606,5 +1606,38 @@
       "VRAX / USDG",
       "GLDSTN / USDG"
     ]
+  },
+  {
+    "date": "2026-10-26T12:01:08.679Z",
+    "indice": 56,
+    "flux": 55,
+    "tendance": 55,
+    "largeur": 60,
+    "momentum": 54,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "SEED / WETH",
+      "PONS / USDG 0.3%",
+      "GIGATENEV / WETH",
+      "SEASON / WETH",
+      "SEASON / USDG 0.9%",
+      "PANGEA / WETH",
+      "CASHCAT / WETH 0.3%",
+      "BTC / WETH",
+      "EMBER / WETH",
+      "TORCH / WETH 0.3%",
+      "WORM / PLTR",
+      "PRIORS / USDG 1%",
+      "RAETO / WETH",
+      "PONS / USDG 0.3%",
+      "FABLES / USDG",
+      "Index / WETH 1%",
+      "GLOAM / WETH",
+      "ORBIO / USDG 0.8%",
+      "DELTA / WETH 1%",
+      "PONS / WETH 1%"
+    ]
   }
 ]
