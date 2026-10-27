@@ -1639,5 +1639,38 @@
       "DELTA / WETH 1%",
       "PONS / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-10-27T11:23:43.220Z",
+    "indice": 53,
+    "flux": 53,
+    "tendance": 56,
+    "largeur": 50,
+    "momentum": 51,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "HACCHAN / USDG",
+      "RAID / WETH",
+      "SEED / WETH",
+      "GIGATENEV / WETH",
+      "SEASON / WETH",
+      "HARMONIC / WETH",
+      "TORCH / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "BTC / WETH",
+      "HOOKR / WETH 0.25%",
+      "pengu / WETH 1%",
+      "SEASON / USDG 0.9%",
+      "microduck / USDG 0.78%",
+      "WORM / PLTR",
+      "GRIFT / WETH",
+      "AI / NVDA",
+      "PRIORS / USDG 1%",
+      "GF / USDG",
+      "SLIPPY / WETH"
+    ]
   }
 ]
