@@ -1672,5 +1672,38 @@
       "GF / USDG",
       "SLIPPY / WETH"
     ]
+  },
+  {
+    "date": "2026-10-28T11:56:31.197Z",
+    "indice": 67,
+    "flux": 53,
+    "tendance": 51,
+    "largeur": 80,
+    "momentum": 82,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "BTC / WETH",
+      "SEED / WETH",
+      "GIGATENEV / WETH",
+      "PONS / USDG 0.3%",
+      "SEASON / WETH",
+      "HACCHAN / USDG",
+      "CASHCAT / WETH 0.3%",
+      "HARMONIC / WETH",
+      "RAID / WETH",
+      "REBATE / USDG",
+      "WORM / PLTR",
+      "PRIORS / USDG",
+      "PRIORS / USDG 1%",
+      "AI / NVDA",
+      "GLOAM / WETH",
+      "HOOKR / WETH 0.25%",
+      "RAETO / WETH",
+      "SCHIFFY / gld",
+      "TORCH / WETH 0.3%",
+      "PONS / USDG 0.3%"
+    ]
   }
 ]
