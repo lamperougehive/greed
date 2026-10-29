@@ -1705,5 +1705,38 @@
       "TORCH / WETH 0.3%",
       "PONS / USDG 0.3%"
     ]
+  },
+  {
+    "date": "2026-10-29T12:04:14.445Z",
+    "indice": 42,
+    "flux": 22,
+    "tendance": 47,
+    "largeur": 50,
+    "momentum": 50,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "GIGATENEV / WETH",
+      "PONS / USDG 0.3%",
+      "SEED / WETH",
+      "WORM / PLTR",
+      "TORCH / WETH 0.3%",
+      "PRIORS / USDG",
+      "REBATE / USDG",
+      "CASHCAT / WETH 0.3%",
+      "PIZZA / USDG",
+      "SEASON / WETH",
+      "AI / NVDA",
+      "sockets / WETH",
+      "RAID / WETH",
+      "FOBO / WETH",
+      "RAETO / WETH",
+      "microduck / NVDA",
+      "PRIORS / USDG 1%",
+      "Index / WETH 1%",
+      "SCHIFFY / gld",
+      "HOOKR / WETH 0.25%"
+    ]
   }
 ]
