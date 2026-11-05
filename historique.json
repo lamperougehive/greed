@@ -1936,5 +1936,38 @@
       "FABLES / USDG",
       "WTH / WETH 0.05%"
     ]
+  },
+  {
+    "date": "2026-11-05T13:49:25.762Z",
+    "indice": 39,
+    "flux": 32,
+    "tendance": 39,
+    "largeur": 35,
+    "momentum": 48,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "GIGATENEV / WETH",
+      "VRAX / USDG",
+      "PONS / WETH 1%",
+      "TORCH / WETH 0.3%",
+      "OAK / WETH",
+      "PRIORS / USDG 1%",
+      "BONER / HIMS",
+      "PRIORS / USDG",
+      "REBATE / USDG",
+      "FABLES / USDG",
+      "HOOKR / WETH 0.25%",
+      "TFEX / WETH",
+      "BURSAR / WETH",
+      "ORBIO / USDG 0.8%",
+      "Index / WETH 1%",
+      "FOBO / WETH",
+      "RAETO / USDG 5%",
+      "CHOP / WETH"
+    ]
   }
 ]
