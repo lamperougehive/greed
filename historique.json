@@ -2167,5 +2167,38 @@
       "FLORA / WETH",
       "BONER / HIMS"
     ]
+  },
+  {
+    "date": "2026-11-12T14:25:15.093Z",
+    "indice": 33,
+    "flux": 26,
+    "tendance": 37,
+    "largeur": 30,
+    "momentum": 40,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "FOBO / WETH",
+      "PONS / USDG 0.3%",
+      "DELTA / WETH 1%",
+      "PONS / USDG",
+      "CASHCAT / WETH 1%",
+      "AI / NVDA",
+      "HOOKR / WETH 0.25%",
+      "TORCH / WETH 0.3%",
+      "BOW / SPY",
+      "ORBIO / USDG 0.8%",
+      "PONS / WETH 1%",
+      "MOW / WETH",
+      "PONS / WETH 0.3%",
+      "PRIORS / USDG 1%",
+      "WALLET / WETH 1%",
+      "TIBBIR / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "LOBIN / WETH 0.3%",
+      "cbBTC / WETH 0.05%"
+    ]
   }
 ]
