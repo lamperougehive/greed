@@ -2200,5 +2200,38 @@
       "LOBIN / WETH 0.3%",
       "cbBTC / WETH 0.05%"
     ]
+  },
+  {
+    "date": "2026-11-13T13:45:11.507Z",
+    "indice": 54,
+    "flux": 56,
+    "tendance": 57,
+    "largeur": 50,
+    "momentum": 51,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "TORCH / WETH 0.3%",
+      "AI / NVDA",
+      "FOBO / WETH",
+      "CASHCAT / WETH 1%",
+      "DELTA / WETH 1%",
+      "PONS / USDG",
+      "HOOKR / WETH 0.25%",
+      "Index / WETH 1%",
+      "PONS / WETH 1%",
+      "PRIORS / USDG 1%",
+      "GIRAFF / WETH",
+      "CHOP / WETH",
+      "RYFT / WETH",
+      "FLORA / WETH",
+      "WALLET / WETH 1%",
+      "ORBIO / USDG 0.8%",
+      "TIBBIR / WETH 0.3%",
+      "LOBIN / WETH 0.3%"
+    ]
   }
 ]
