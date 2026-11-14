@@ -2233,5 +2233,38 @@
       "TIBBIR / WETH 0.3%",
       "LOBIN / WETH 0.3%"
     ]
+  },
+  {
+    "date": "2026-11-14T12:50:09.559Z",
+    "indice": 27,
+    "flux": 34,
+    "tendance": 39,
+    "largeur": 15,
+    "momentum": 21,
+    "poolsUnivers": 20,
+    "poolsFlux": 20,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "PRIORS / USDG 1%",
+      "FRONG / WETH 0.25%",
+      "DELTA / WETH 1%",
+      "PONS / WETH 1%",
+      "HOOKR / WETH 0.25%",
+      "TORCH / WETH 0.3%",
+      "FOBO / WETH",
+      "PONS / USDG",
+      "AI / NVDA",
+      "CASHCAT / WETH 1%",
+      "WALLET / WETH 1%",
+      "POOLS / WETH 0.25%",
+      "TIBBIR / WETH 0.3%",
+      "TEXEL / WETH",
+      "PRIORS / USDG",
+      "ORBIO / USDG 0.8%",
+      "PONS / USDG 0.3%",
+      "LOCKRA / WETH"
+    ]
   }
 ]
