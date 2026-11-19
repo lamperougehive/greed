@@ -2396,5 +2396,37 @@
       "ROBINCAT / USDG",
       "ACAT / WETH"
     ]
+  },
+  {
+    "date": "2026-11-19T15:00:32.784Z",
+    "indice": 50,
+    "flux": 43,
+    "tendance": 48,
+    "largeur": 58,
+    "momentum": 51,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "HOOKR / WETH 0.25%",
+      "PONS / WETH 1%",
+      "DCTY / TTWO",
+      "CASHCAT / WETH 1%",
+      "ORBIO / USDG 0.8%",
+      "AI / NVDA",
+      "PONS / USDG",
+      "TIBBIR / WETH 0.3%",
+      "PRIORS / USDG 1%",
+      "PONS / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "DELTA / WETH 1%",
+      "FRONG / WETH 0.25%",
+      "AI / PONS 0.3%",
+      "RYFT / WETH",
+      "CASHCAT / USDG 0.269%",
+      "HMM / WETH 1%"
+    ]
   }
 ]
