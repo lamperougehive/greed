@@ -2461,5 +2461,37 @@
       "RYFT / WETH",
       "WALLET / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-11-21T13:59:55.563Z",
+    "indice": 52,
+    "flux": 75,
+    "tendance": 90,
+    "largeur": 11,
+    "momentum": 33,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "HOOKR / WETH 0.25%",
+      "PONS / USDG 0.3%",
+      "PONS / WETH 1%",
+      "AI / NVDA",
+      "TIBBIR / WETH 0.3%",
+      "CASHCAT / WETH 1%",
+      "ORBIO / USDG 0.8%",
+      "ANT / USDG 0.05%",
+      "PRIORS / USDG 1%",
+      "NET / USDG 1%",
+      "PONS / USDG 0.288%",
+      "DELTA / WETH 1%",
+      "PONS / USDG",
+      "HALBROOK / WETH",
+      "FOBO / WETH",
+      "PONS / USDG 0.3%",
+      "NET / USDG 0.9%",
+      "NET / USDG"
+    ]
   }
 ]
