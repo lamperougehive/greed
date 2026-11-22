@@ -2493,5 +2493,36 @@
       "NET / USDG 0.9%",
       "NET / USDG"
     ]
+  },
+  {
+    "date": "2026-11-22T13:53:46.539Z",
+    "indice": 56,
+    "flux": 48,
+    "tendance": 46,
+    "largeur": 78,
+    "momentum": 53,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "HOOKR / WETH 0.25%",
+      "URANUS / SPCX",
+      "ANT / USDG 0.05%",
+      "PONS / WETH 1%",
+      "PONS / USDG",
+      "AI / NVDA",
+      "PONS / USDG 0.288%",
+      "PRIORS / USDG 1%",
+      "TIBBIR / WETH 0.3%",
+      "FOBO / WETH",
+      "ACAT / WETH",
+      "PONS / USDG 0.3%",
+      "HALBROOK / WETH",
+      "DELTA / WETH 1%",
+      "FRONG / WETH 0.25%",
+      "Agrippa / musebook"
+    ]
   }
 ]
