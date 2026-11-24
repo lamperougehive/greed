@@ -2557,5 +2557,36 @@
       "DELTA / WETH 1%",
       "PIPEDOG / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-11-24T16:48:39.723Z",
+    "indice": 30,
+    "flux": 39,
+    "tendance": 41,
+    "largeur": 11,
+    "momentum": 30,
+    "poolsUnivers": 18,
+    "poolsFlux": 18,
+    "couverture": 100,
+    "univers": [
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "HOOKR / WETH 0.25%",
+      "AI / NVDA",
+      "PONS / WETH 1%",
+      "PRIORS / USDG 1%",
+      "microduck / NVDA",
+      "MEME / amc",
+      "PONS / USDG 0.288%",
+      "FOBO / WETH",
+      "AnsemCat / WETH",
+      "CASHCAT / WETH 1%",
+      "PONS / USDG",
+      "ANT / USDG 0.05%",
+      "DELTA / WETH 1%",
+      "TIBBIR / WETH 0.3%",
+      "AI / WETH 1%",
+      "ORBIO / USDG 0.8%"
+    ]
   }
 ]
