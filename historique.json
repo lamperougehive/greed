@@ -2620,5 +2620,37 @@
       "DELTA / WETH 1%",
       "ORBIO / USDG 0.8%"
     ]
+  },
+  {
+    "date": "2026-11-26T16:08:56.112Z",
+    "indice": 68,
+    "flux": 62,
+    "tendance": 46,
+    "largeur": 95,
+    "momentum": 69,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "FIONA / WETH",
+      "mihao / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "TEXEL / WETH",
+      "HOOKR / WETH 0.25%",
+      "ORBIO / USDG 0.8%",
+      "PONS / WETH 1%",
+      "OAK / WETH",
+      "CASHCAT / WETH 1%",
+      "FOBO / WETH",
+      "GREM / WETH",
+      "PONS / USDG 0.3%",
+      "ANT / USDG 0.05%",
+      "DELTA / WETH 1%",
+      "PRIORS / USDG 1%",
+      "PONS / USDG",
+      "AI / NVDA",
+      "AUTONOMO / WETH"
+    ]
   }
 ]
