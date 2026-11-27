@@ -2652,5 +2652,37 @@
       "AI / NVDA",
       "AUTONOMO / WETH"
     ]
+  },
+  {
+    "date": "2026-11-27T15:56:54.352Z",
+    "indice": 70,
+    "flux": 59,
+    "tendance": 76,
+    "largeur": 79,
+    "momentum": 64,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "FIONA / WETH",
+      "mihao / WETH",
+      "CASHCAT / WETH 0.3%",
+      "PONS / USDG 0.3%",
+      "PONS / WETH 1%",
+      "SI / WETH",
+      "HOOKR / WETH 0.25%",
+      "PONS / WETH 0.3%",
+      "CASHCAT / WETH 1%",
+      "FOBO / WETH",
+      "TEXEL / WETH",
+      "ORBIO / USDG 0.8%",
+      "PONS / USDG 0.3%",
+      "PONS / USDG 0.288%",
+      "AI / NVDA",
+      "PRIORS / USDG 1%",
+      "PONS / USDG",
+      "OAK / WETH",
+      "DELTA / WETH 1%"
+    ]
   }
 ]
