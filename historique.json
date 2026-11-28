@@ -2684,5 +2684,37 @@
       "OAK / WETH",
       "DELTA / WETH 1%"
     ]
+  },
+  {
+    "date": "2026-11-28T14:51:53.990Z",
+    "indice": 46,
+    "flux": 53,
+    "tendance": 68,
+    "largeur": 21,
+    "momentum": 42,
+    "poolsUnivers": 19,
+    "poolsFlux": 19,
+    "couverture": 100,
+    "univers": [
+      "FIONA / WETH",
+      "PONS / USDG 0.3%",
+      "CASHCAT / WETH 0.3%",
+      "PONS / WETH 1%",
+      "SI / WETH",
+      "AI / NVDA",
+      "PONS / USDG 0.3%",
+      "HOOKR / WETH 0.25%",
+      "FOBO / WETH",
+      "TIBBIR / WETH 0.3%",
+      "CASHCAT / WETH 1%",
+      "IDLEX / WETH",
+      "ANT / USDG 0.05%",
+      "HEY / WETH",
+      "PONS / WETH 0.3%",
+      "PONS / USDG",
+      "PONS / USDG 0.288%",
+      "ORBIO / USDG 0.8%",
+      "mihao / WETH"
+    ]
   }
 ]
